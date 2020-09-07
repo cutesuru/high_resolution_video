@@ -17,7 +17,8 @@ Libraries Used:
 
 ## Example ##
 ```out=torch_model(img_y)```
-[images](high_resolute_image.jpg)
+
+![images](high_resolute_image.jpg)
 
 ## Contributions ##
 
